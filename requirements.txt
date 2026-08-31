@@ -1,0 +1,3 @@
+PyQt6>=6.0
+
+# ADB itself is required and must be in PATH (platform adb tools or Android SDK platform-tools)
